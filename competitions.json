@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "generatedAt": "2026-02-01T16:09:29+00:00",
+    "generatedAt": "2026-02-01T16:12:05+00:00",
     "source": "ToeAndHeel Database",
     "count": 1,
     "competitions": [
@@ -20,7 +20,11 @@
                 "city": "Boone",
                 "stateProvince": "NC4",
                 "postalCode": null,
-                "country": "Unknown"
+                "country": "Unknown",
+                "coordinates": {
+                    "latitude": null,
+                    "longitude": null
+                }
             },
             "organiser": {
                 "name": "Raleigh Scottish Dance",
