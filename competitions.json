@@ -1,0 +1,42 @@
+{
+    "version": "1.0",
+    "generatedAt": "2026-02-01T15:55:47+00:00",
+    "source": "ToeAndHeel Database",
+    "count": 1,
+    "competitions": [
+        {
+            "id": 1045,
+            "title": "Highland Country Fling 2025",
+            "description": null,
+            "venueName": "The Plemmons Student Union",
+            "startDate": "2026-09-27",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "The Plemmons Student Union, Boone, NC4",
+                "venue": "The Plemmons Student Union",
+                "address": "Appalachian State University",
+                "city": "Boone",
+                "stateProvince": "NC4",
+                "postalCode": null,
+                "country": "Unknown"
+            },
+            "organiser": {
+                "name": "Raleigh Scottish Dance",
+                "email": "thistleandshamrockha@gmail.com",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://toeandheel.com",
+                "registration": "https://toeandheel.com/enter_online/2026_raleigh.p...",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8045.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        }
+    ]
+}
